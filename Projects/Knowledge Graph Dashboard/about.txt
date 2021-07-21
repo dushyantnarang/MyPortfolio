@@ -1,0 +1,1 @@
+This project is a streamlit app to plot (using plotly) Knowledge Graph stats - recently created Concepts and Competencies. 
